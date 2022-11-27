@@ -1,2 +1,4 @@
-package J99_lambda;public class C05_sorted {
+package J99_Lambda;
+
+public class C05_sorted {
 }

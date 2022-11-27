@@ -1,2 +1,4 @@
-package J99_lambda;public class C03_map {
+package J99_Lambda;
+
+public class C03_map {
 }

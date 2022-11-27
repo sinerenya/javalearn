@@ -1,2 +1,4 @@
-package J99_lambda;public class C04_reduce {
+package J99_Lambda;
+
+public class C04_reduce {
 }
